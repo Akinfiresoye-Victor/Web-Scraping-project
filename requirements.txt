@@ -1,0 +1,6 @@
+beautifulsoup4
+requests
+lxml
+certifi
+urllib3
+fake_useragent
