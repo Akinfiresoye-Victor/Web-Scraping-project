@@ -9,7 +9,7 @@ Scrapes book information (title, price, stock, etc.) from [Books to Scrape](http
 - Fetches all categories from the site  
 - For each category, scrapes multiple pages (pagination) to collect book details  
 - Extracts data such as title, price, availability, and possibly rating  
-- Saves results in a structured format (see below)
+- Saves results in a structured format 
 
 ---
 
